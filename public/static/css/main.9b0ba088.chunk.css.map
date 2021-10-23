@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/index.css"],"names":[],"mappings":"AAAA,EACE,SAAU,CACV,QACF,CAEA,UAEE,YAEF","file":"main.9b0ba088.chunk.css","sourcesContent":["* {\r\n  padding: 0;\r\n  margin: 0;\r\n}\r\n\r\nhtml,\r\nbody {\r\n  height: 100vh;\r\n  /* background-color: #252839 !important; */\r\n}\r\n"]}
